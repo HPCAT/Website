@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao on HPCAT</title>
+    <link>https://hpcat.github.io/tags/hao/</link>
+    <description>Recent content in Hao on HPCAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, HPCAT; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 10 Dec 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://hpcat.github.io/tags/hao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graduate student, Hao Zheng, has had a paper published</title>
+      <link>https://hpcat.github.io/blog/2017/12/10/example4/</link>
+      <pubDate>Sun, 10 Dec 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2017/12/10/example4/</guid>
+      <description>A graduate student, Hao Zheng, has had a paper published in IEEE Computer Architecture Letters titled “EZ-Pass: An Energy &amp;amp; Performance-Efficient Power-gating Router Architecture for Scalable NoCs”.</description>
+    </item>
+    
+  </channel>
+</rss>
