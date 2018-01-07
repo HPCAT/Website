@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ieee on HPCAT</title>
+    <link>https://hpcat.github.io/tags/ieee/</link>
+    <description>Recent content in Ieee on HPCAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, HPCAT; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 06 Jan 2018 22:51:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://hpcat.github.io/tags/ieee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monopoles Loaded With 3-D-Printed Dielectrics</title>
+      <link>https://hpcat.github.io/blog/2018/01/06/example1/</link>
+      <pubDate>Sat, 06 Jan 2018 22:51:46 +0200</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2018/01/06/example1/</guid>
+      <description>In December of 2017, a paper was published in IEEE Transactions on Antennas and Propagation titled “Monopoles Loaded With 3-D-Printed Dielectrics for Future Wireless Intrachip Communications.” This was contributed to by Professor Louri.</description>
+    </item>
+    
+  </channel>
+</rss>

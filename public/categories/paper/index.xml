@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper on HPCAT</title>
+    <link>https://hpcat.github.io/categories/paper/</link>
+    <description>Recent content in Paper on HPCAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, HPCAT; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 06 Jan 2018 22:51:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://hpcat.github.io/categories/paper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monopoles Loaded With 3-D-Printed Dielectrics</title>
+      <link>https://hpcat.github.io/blog/2018/01/06/example1/</link>
+      <pubDate>Sat, 06 Jan 2018 22:51:46 +0200</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2018/01/06/example1/</guid>
+      <description>In December of 2017, a paper was published in IEEE Transactions on Antennas and Propagation titled “Monopoles Loaded With 3-D-Printed Dielectrics for Future Wireless Intrachip Communications.” This was contributed to by Professor Louri.</description>
+    </item>
+    
+    <item>
+      <title>Graduate student, Hao Zheng, has had a paper published</title>
+      <link>https://hpcat.github.io/blog/2017/12/10/example4/</link>
+      <pubDate>Sun, 10 Dec 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2017/12/10/example4/</guid>
+      <description>A graduate student, Hao Zheng, has had a paper published in IEEE Computer Architecture Letters titled “EZ-Pass: An Energy &amp;amp; Performance-Efficient Power-gating Router Architecture for Scalable NoCs”.</description>
+    </item>
+    
+  </channel>
+</rss>
