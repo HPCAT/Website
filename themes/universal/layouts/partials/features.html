@@ -1,0 +1,96 @@
+{{ if isset .Site.Params "features" }}
+{{ if .Site.Params.features.enable }}
+{{ if gt (len .Site.Data.features) 0 }}
+
+<section class="bar background-pentagon">
+    <div class="home-carousels">
+        <div class="container">
+            <div class="heading text-center">
+                <h2><center> Current Research </center></h2>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bar background-whites">
+    <div class="home-carousels">
+    <div class="container">
+        {{ range $index, $element := sort .Site.Data.features "weight" }}
+		{{ if eq (mod $index 3) 0 }}
+        <br>
+		<div class="col-md-12">
+            <div class="row">
+		{{ end }}
+				<div class="col-md-4">
+                    <div class="box-simple">
+                        <center>
+                        <img class="img-responsive" src="{{ .image }}"
+                        alt="" height="{{ .height }}" width="{{ .width }}">
+                        </center>
+                        <h3>{{ $element.name | markdownify }}</h3>
+                        <p style="text-align: justify;">{{ $element.description | markdownify }}</p>
+                    </div>
+                </div>
+		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.features) 1 )) }}
+			</div>
+		</div>
+		{{ end }}
+        {{ end }}
+    </div>
+    </div>
+</section>
+
+<section class="bar background-pentagon">
+    <div class="home-carousels">
+        <div class="container">
+            <div class="heading text-center">
+                <h2><center> Past Research </center></h2>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="home-carousels">
+        <div class="container">
+                          <div class="item">
+                            <p style="text-align: justify;">
+                            <br>
+                            <ul>
+                            <font size="+1">
+                                <li><a href="/optical_multi">Optical Multi-Mesh Hypercube Interconnection Network</a></li>
+
+                                <li><a href="/free-space_opt">A Free-space Optical Crossbar Switch Using Wavelength Division Multiplexing and VSCELs</a></li>
+
+                                <li><a href="/multi-wavelength">Multi-Wavelength Optical Content Addressable Parallel Processor (MW-OCAPP)</a></li>
+
+                                <li><a href="/optical_interconnects">Optical Interconnects for the Design of Large Scale Symmetric Multiprocessors</a></li>
+
+                                <li><a href="/reliable_and_fault">Reliable and Fault-Tolerant Network-on-Chips for Multi-Core Architectures and Embedded Systems</a></li>
+
+                                <li><a href="/heterogenous_inter">Heterogenous Interconnect Technologies (Photonics, 3D Stacking, RF) for Scalable NoCs</a></li>
+
+                                <li><a href="/optical_proc">Optical Processing Techniques for High Speed Searching and Matching Applications</a></li>
+
+                                <li><a href="/scalable_cache">Scalable Cache Coherent Scheme for Distributed Shared Memory Systems</a></li>
+
+                                <li><a href="/optical_switching">Optical Switching Fabrics for Scalable IP Routers</a></li>
+
+                                <li><a href="/multi-domain">Multi-Domain Modeling and Simulation of Optical Interconnects for Multiprocessor Application</a></li>
+
+                                <li><a href="/design_reconfig">Design of Reconfigurable and Scalable Optical Interconnection Networks for Balanced Parallel Computing Systems</a></li>
+
+                                <li><a href="/perf_adapt">Performance-Adaptive and Power-Aware Hybrid Opto-Electronic Interconnects for HPCs</a></li>
+
+                                <li><a href="/nano-photo">Nano-Photonics for Network on Chips</a></li>
+
+                            </font>
+                            </ul>
+                            </he>
+                          </div>
+            </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

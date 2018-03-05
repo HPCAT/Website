@@ -1,0 +1,66 @@
+{{ if isset .Site.Params "carousel" }}
+{{ if .Site.Params.carousel.enable }}
+{{ if gt (len .Site.Data.carousel) 0 }}
+<section class="bar background-pentagon">
+    <div class="home-carousels">
+        <div class="dark-mask"></div>
+        <div class="container">
+                        <div class="heading text-center">
+                          <h2><center> Welcome to HPCAT </center></h2>
+                        </div>
+            </div>
+</section>
+<section>
+        <div class="container">
+            <div class="homepage owl-carousel">
+                {{ range sort .Site.Data.carousel "weight" }}
+                <div class="item">
+                    <div class="row">
+                        <center>
+                            <img class="img-responsive" src="{{ .image }}" alt="" height="{{ .height }}" width="{{ .width }}">
+                        </center>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+            <!-- /.project owl-slider -->
+        </div>
+    </div>
+</section>
+
+<section class="bar background-pentagon">
+    <div class="home-carousels">
+        <div class="container">
+                        <div class="heading text-center">
+                          <h2><center> LAB MISSION </center></h2>
+                        </div>
+                            {{ range sort .Site.Data.carousel "weight" }}
+                            {{ end }}
+            </div>
+    </div>
+</section>
+
+<section>
+    <div class="home-carousels">
+        <div class="container">
+                        <div class="heading text-center">
+                          <div class="item">
+                            <p style="text-align: justify;">
+                            <br>
+                            We rely on computing in the design of systems for energy, transportation, finance, education, health, defense, entertainment, and overall wellness. However, today's computing systems are facing major challenges both at the technology and application levels. At the technology level, traditional scaling of device sizes has slowed down and the reduction of cost per transistor is plateauing, making it increasingly difficult to extract more computer performance by employing more transistors on-chip. Power limits and reduced semiconductor reliability are making device scaling more difficult – if not impossible – to leverage for performance in the future and across all platforms, including mobile, embedded systems, laptops, servers, and datacenters. Simultaneously, at the application level, we are entering a new computing era that calls for a migration from an algorithm computing world to a learning-based, data-intensive computing paradigm in which human capabilities are scaled and magnified. To meet the ever-increasing computing needs and to overcome power density limitations, the computing industry has embraced parallelism (parallel computing) as the only method for improving computer performance. Today, computing systems are being designed with tens to hundreds of computing cores integrated into a single chip and hundreds to thousands of computing servers based on these chips are connected in datacenters and supercomputers. However, power consumption remains a significant design problem, and such highly parallel systems still face major challenges in terms of energy efficiency, performance, and reliability.
+
+                            <br>
+                            <br>
+
+                            Professor Louri and his team investigate novel parallel computer architectures and technologies which deliver high reliability, high performance, and energy-efficient solutions to important application domains and societal needs. The research has far-reaching impacts on the computing industry and society at large.  Current research topics include: (1) the use of machine learning techniques for designing energy-efficient, reliable multicore architectures, (2) scalable accelerator-rich reconfigurable heterogeneous architectures, (3) emerging interconnect technologies (photonic, wireless, RF, hybrid) for network-on-chips (NoCs) & embedded systems, (4) future parallel computing models and architectures including Convolutional Neural Networks (CNNs), Deep Neural Networks (DNNs), near data computing, approximate computing, and (5) cloud and edge computing.
+                            </p>
+                          </div>
+                        </div>
+                            {{ range sort .Site.Data.carousel "weight" }}
+                            {{ end }}
+            </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

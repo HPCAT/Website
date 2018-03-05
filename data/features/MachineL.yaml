@@ -1,0 +1,10 @@
+weight: 1
+name: "[Machine Learning for High Performance Reliable NoCs](/machinel)"
+icon: "fa fa-microchip"
+description: "With continued aggressive technology scaling, Network-on-Chips (NoCs)
+architectures are facing three major challenges including minimizing power
+consumption, scaling performance, providing a reliable and robust
+communication. [(more...)](/machinel)"
+image: "img/Pictures/machinel3.jpg"
+height: "420"
+width: "420"

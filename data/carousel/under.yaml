@@ -1,0 +1,12 @@
+weight: 2
+title: "Welcome"
+description: >
+  <ul class="list-style-none">
+    <li>Filler Content </li>
+    <li>More</li>
+    <li>More</li>
+    <li>More</li>
+  </ul>
+image: "img/Pictures/under.JPG"
+height: ""
+width: "700"

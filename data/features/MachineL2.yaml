@@ -1,0 +1,9 @@
+weight: 2
+name: "[Energy-Efficient Scalable Multicore Architectures](/machinel2)"
+icon: "fa fa-bolt"
+description: "Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended.
+The end of voltage scaling has made power dissipation the fundamental barrier to
+scaling computing performance across all platforms. [(more...)](/machinel2)"
+image: "img/Pictures/power.png"
+height: "278"
+width: "278"
