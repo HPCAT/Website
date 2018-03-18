@@ -5,6 +5,8 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo -t universal
 
 cd public
+sed -i -e "s/Blogs/News/" blog/index.html
+
 git add .
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]

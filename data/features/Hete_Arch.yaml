@@ -4,6 +4,6 @@ icon: "fa fa-sitemap"
 description: "In the dark silicon era, only a fraction of transistors on a chip can be switched simultaneously due to
 constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with
 specialized hardware or accelerators. [(more...)](/hete_arch)"
-image: "img/Pictures/hetev2.png"
-height: "200"
-width: "200"
+image: "img/Pictures/option6.png"
+height: "250"
+width: "250"

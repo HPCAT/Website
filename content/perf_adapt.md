@@ -42,7 +42,7 @@ Figure - 1 : Power-regulation and Bandwidth Re-allocation Techniques
 </p>
 
 <center>
-<img src="/img/Pictures/research_cur9_figure1" align="center" style="float: center; width: 500px;">
+<img src="/img/Pictures/research_cur9_figure1.gif" align="center" style="float: center; width: 500px;">
 </center>
 
 <p style="text-align: justify;">
@@ -54,7 +54,7 @@ Figure - 2 : Reconfiguration Controller (RC) and Link Controller (LC) communicat
 </p>
 
 <center>
-<img src="/img/Pictures/research_cur9_figure2" align="center" style="float: center; width: 500px;">
+<img src="/img/Pictures/research_cur9_figure2.gif" align="center" style="float: center; width: 500px;">
 </center>
 
 <br>
@@ -70,7 +70,7 @@ Figure 3 - n x n row-column switch
 </p>
 
 <center>
-<img src="/img/Pictures/research_cur9_figure3" align="center" style="float: center; width: 500px;">
+<img src="/img/Pictures/research_cur9_figure3.gif" align="center" style="float: center; width: 500px;">
 </center>
 
 <p style="text-align: justify;">
@@ -82,7 +82,7 @@ Figure 2 - Detailed implementation of row-column switch. IR0 (=OC0) is the input
 </p>
 
 <center>
-<img src="/img/Pictures/research_cur9_figure4" align="center" style="float: center; width: 500px;">
+<img src="/img/Pictures/research_cur9_figure4.gif" align="center" style="float: center; width: 500px;">
 </center>
 
 <p style="text-align: justify;">
@@ -90,7 +90,7 @@ Table 1: Truth table for row and column voltages for switching between multiple 
 </p>
 
 <center>
-<img src="/img/Pictures/research_cur9_figure5" align="center" style="float: center; width: 500px;">
+<img src="/img/Pictures/research_cur9_figure5.gif" align="center" style="float: center; width: 500px;">
 </center>
 
 <br>

@@ -1,6 +1,6 @@
 +++
 title = "Dr. Louri and his Research Team have Published a USNC_USRI NAtional Radio Science Meeting Conference Paper titled: “Reconfigurable Intra-chip Antenna for Future Wireless Communications”"
-date = "2018-03-02"
+date = "2018-03-11"
 tags = ["IEEE"]
 categories = ["Paper"]
 banner = "/img/.jpg"

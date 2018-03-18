@@ -1,6 +1,6 @@
 +++
 title = "Dr. Louri and his Research Team have Published an IEEE International Symposium Conference Paper titled: “Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning”"
-date = "2018-03-02"
+date = "2018-03-12"
 tags = ["IEEE"]
 categories = ["Paper"]
 banner = "/img/.jpg"

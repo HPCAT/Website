@@ -4,6 +4,6 @@ icon: "fa fa-code-fork"
 description: "There is a shift from multi-core to many-core architectures containing hundreds to a thousand
 cores on a single chip. However, traditional on-chip metallic interconnects require excessive
 power as technology keeps scaling. [(more...)](/emerging)"
-image: "img/Pictures/R-OWN-1.png"
+image: "img/Pictures/emerging.jpg"
 height: "270"
 width: "270"

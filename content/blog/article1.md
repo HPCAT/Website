@@ -1,6 +1,6 @@
 +++
-title = "Dr. Louri and his Research Team have Published an IEEE Transactions Article titled: “Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies”"
-date = "2018-03-02"
+title = "Dr. Louri and his Research Team have published an IEEE Transactions Article titled: “Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies”"
+date = "2018-03-09"
 tags = ["IEEE"]
 categories = ["Journal Article"]
 banner = "/img/.jpg"

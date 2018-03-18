@@ -26,9 +26,9 @@ Applicants should have earned a PhD degree in Electrical Engineering, Computer E
 ### Graduate Research Assistantships:
 
 <p style="text-align: justify;">
-A Graduate Research Assistantship (GRAs) are available for Ph.D. students to work on a several federally funded research projects.
+Graduate Research Assistantships (GRAs) are available for Ph.D. students to work on a several federally funded research projects.
 
-Students in the HPCAT Lab will work on designing, developing and validating novel power-efficient, performance-adaptive, fault-tolerant and self-healing network on chips (NoCs) for multicore architectures, and high-performance computing systems in general.
+Students in the HPCAT Lab will work on designing, developing and validating novel power-efficient, performance-adaptive, fault-tolerant network on chips (NoCs) for multicore architectures, and high-performance computing systems in general.
 
 Students will gain a well-rounded experience in computer and communication systems design through solid theoretical studies, modeling and simulation experiments, performance evaluation and physical implementation. A variety of modeling and simulation tools as well as equipment are available for use in the Lab. Stills that are highly sought after in industry and research institutions.
 

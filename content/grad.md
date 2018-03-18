@@ -73,6 +73,16 @@ Yuan Li is working on 3D Network-on-Chip architectures. His research aims to fac
 
 <br>
 <br>
+<br>
+<img src="/img/People/yizhao.jpg" hspace="20" vspace="0" border="0" alt="Yuan" style="float: left; width: 120px;"/>
+
+#### Yi Zhao
+<p style="text-align: justify; font-size:18px;">
+Yi Zhao is pursuing his MS in Computer Architecture and he joined Prof. Louri’s Lab in late 2017. Yi's current project is focus on NoC design, such as topology and routing algorithm, to get low cost, high performance and energy-efficient.
+</p>
+
+<br>
+<br>
 
 <br>
 <br>
