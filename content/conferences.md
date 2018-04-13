@@ -15,7 +15,10 @@ a {
     text-decoration: underline;
     }
 br {
-    line-height: 0.0;
+  content: "" ;
+  margin: 2em;
+  display: block;
+  font-size: 5px;
 }
 </style>
 </head>
@@ -34,7 +37,7 @@ br {
 <br>
 
 <p>
-	S. V. Winkle, A. Kodi, R. Bunescu and A. Louri, "<a>Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning,</a>" to appear in <i>Proceedings of the 24th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>, Vienna, 2018.
+	S. V. Winkle, A. Kodi, R. Bunescu and A. Louri, "<a>Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning,</a>" in<i>Proceedings of the 24th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>, Vienna, 2018.
 </p>
 <br>
 
