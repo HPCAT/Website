@@ -15,7 +15,7 @@ keywords = ["Graduate","Undergraduate","Student","Doctorate"]
 ### Md Farhadur Reza
 
 <p style="text-align: justify; font-size:18px;">
-Md Farhadur Reza is a PostDoctoal Scientist in the High Performance
+Md Farhadur Reza is a Post-Doctoral Scientist in the High Performance
 Computing Architectures and Technologies Laboratory (HPCAT) at the George
 Washington University. He received PhD and MS in computer science from the Center
 for Advanced Computer Studies (CACS) at the University of Louisiana at Lafayette in
