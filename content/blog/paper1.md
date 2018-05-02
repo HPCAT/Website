@@ -1,5 +1,5 @@
 +++
-title = "Dr. Louri and his Research Team Design Automation Conference Paper titled: “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs” was accepted"
+title = "Dr. Louri and his Research Team submitted a paper titled: “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs” at the Design Automation Conference, which  was accepted"
 date = "2018-03-14"
 tags = ["IEEE"]
 categories = ["Paper"]
