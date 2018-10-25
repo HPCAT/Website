@@ -23,7 +23,7 @@ br {
 <!--[](/img/People/Sebastian.jpg)-->
 <font size="+1">
 
-#### Current Researchers: TBD;
+#### Current Researchers: Ke Wang, Hao Zheng, Jie Luo;
 
 <br>	
 
@@ -100,7 +100,7 @@ dynamic energy savings of 17% with a minimal loss of 4% in throughput and no
 latency increase.
 </p>
 
-#### S. V. Winkle, A. Kodi, R. Bunescu and A. Louri, "<a>Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning,</a>" to appear in <i>Proceedings of the 24th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>, Vienna, 2018.
+#### S. V. Winkle, A. Kodi, R. Bunescu and A. Louri, "<a>Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning,</a>" in <i>Proceedings of the 24th IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>, Vienna, 2018.
 
 <p style="text-align: justify;">
 As communication energy exceeds computation energy in future technologies,
@@ -149,34 +149,7 @@ penalties and by dynamically changing the direction of the links, we can improve
 packet latency by 14%.
 </p>
 
-### 3. Intelligent NoCs using Reinforcement Learning
 
-<p style="text-align: justify;">
-Network-on- Chips (NoCs) have emerged as the prevailing communication fabric
-for Chip Multiprocessors (CMPs) and Systems on Chips (SoCs), which are the
-backbone of data centers and exascale systems. As technology continues to
-scale, soft, or transient, errors such as timing errors are becoming much more
-pronounced, negatively affecting energy efficiency and performance of NoCs.
-Typical fault-tolerant techniques handle faults after they occur relying on the use
-of error detection/correction and retransmission schemes. However, static error
-detection and correction have been shown to result in excessive power
-consumption and degraded performance. On the other hand, disabling per-router
-error handling hardware can lead to more errors and retransmission traffic. The
-challenge is to balance error rate, packet retransmission, network performance,
-and power efficiency. We first propose new proactive error handling techniques
-comprised of a dynamic scheme for enabling per-router error detection/correction
-hardware and an effective retransmission mechanism. We further propose the use
-of Reinforcement Learning (RL) to train the dynamic control policy with the goals
-of providing improved fault-tolerance, reduced power consumption and improved
-performance as compared to current techniques.
-<br>
-We evaluated the proposed fault-tolerant framework and RL-based control policy
-using a combination of simulation tools and PARSEC benchmarks. Experimental
-evaluation shows that average end-to- end packet latency is lowered by 55%,
-energy efficiency is improved by 64%, and dynamic power consumption is
-reduced by 46% over the baseline where per-router error detection and correction
-hardware is consistently switched off.
-</p>
 
 </font>
 <br>

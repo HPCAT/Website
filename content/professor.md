@@ -17,7 +17,9 @@ alt="图片" style="width:435;max-width:100%">
 </div>
 -->
 
-<img src="/img/louri.jpg" hspace="20" vspace="0" border="0" align="left" style="float: left; width: 250px;">
+<img src="/img/louri_ece.jpg" hspace="20" vspace="0" border="0" align="left" style="float: left; width: 250px;">
+<br>
+<br>
 ### Ahmed Louri
 
 #### IEEE Fellow
@@ -44,7 +46,7 @@ Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of El
 <p style="text-align: justify;">
 From 2010 to 2013, Dr. Louri served as a program director in the National Science Foundation's (NSF) Directorate for Computer and Information Science and Engineering. He directed the core computer architecture program and was on the management team of several cross-cutting programs, including: Cyber-Physical Systems; Expeditions in Computing; Computing Research Infrastructure; Secure and Trustworthy Cyberspace; Failure-Resistant Systems, Science Engineering and Education for Sustainability; and Cyber-Discovery Initiative, among others. While at NSF, Dr. Louri initiated multidisciplinary research programs in several key areas of computer architecture, high-performance computing, sustainability, emerging technologies, resiliency, and security. He played a key role in the creation of the Scalable Parallelism in the Extreme program, which is now in its fourth year. 
 </p>
-<br>
+
 <p style="text-align: justify;">
 Dr. Louri conducts research in the broad area of computer architecture and parallel computing, with emphasis on interconnection networks, optical interconnects for scalable parallel computing systems, reconfigurable computing systems, and power-efficient and reliable Network-on-Chips (NoCs) for multicore architectures. Recently he has been concentrating on: energy-efficient, reliable, and high-performance many-core architectures; accelerator-rich reconfigurable heterogeneous architectures; machine learning techniques for efficient computing, memory, and interconnect systems; emerging interconnect technologies (photonic, wireless, RF, hybrid) for NoCs; future parallel computing models and architectures (including convolutional neural networks, deep neural networks, and approximate computing); and cloud-computing and data centers. He has published more than 160 refereed journal articles and peer-reviewed conference papers, and is the co-inventor on several US and international patents.
 </p>

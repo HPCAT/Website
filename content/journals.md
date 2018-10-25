@@ -26,8 +26,30 @@ br {
 <font size="+1">
 <br>
 
+
+<p>
+   T. F. Canan, S. Kaya, A. Karanth, A. Louri, and H. Xin "<a>Ambipolar SB-FinFETs: A New Path to Ultra-Compact sub-10nm Logic Circuits,</a>" to appear in <i>IEEE Transactions on Electron Devices (TED)</i>, 2018.
+</p>
+<br>
+
+
+
+
+
+<p>
+   A. Louri, J. Collet and A. Karanth, "<a>Limit of Hardware Solutions for Self-Protecting Fault-Tolerant NoCs,</a>" to appear in <i>ACM Journal on Emerging Technologies in Computing Systems (JETC)</i>, 2018.
+</p>
+<br>
+
+
 <p>
   A. Sikder, A. Kodi, S. Kaya, D. Carbaugh, S. Laha, A. Louri, H. Xin and J. Wu, "<a>Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies,</a>" to appear in <i>IEEE Transactions on Sustainable Computing</i>, 2018.
+</p>
+<br>
+
+
+<p>
+   Q. Fettes, M. Clark, R. Bunescu, A. Karanth, and A. Louri, "<a>Dynamic Voltage and Frequency Scaling in NoCs with Supervised and Reinforcement Learning Techniques,</a>" in <i>IEEE Transactions on Computers (TC)</i>, doi: 10.1109/TC.2018.2875476, Oct. 2018.
 </p>
 <br>
 
@@ -103,8 +125,7 @@ no. 1, pp. 243-255, Jan. 2014.
 <p>
   Jin Sun, Roman Lysecky, Karthik Shankar, Avinash Kodi, Ahmed Louri,
 and Janet Roveda. 2014. <a href="/papers/ACM_2014.pdf">Workload
-Assignment Considering NBTI Degradation in Multi-Core Systems</a>. <i>J.
-Emerg. Technol. Comput. Syst.</i> 10, 1, Article 4, Jan. 2014, 22
+Assignment Considering NBTI Degradation in Multi-Core Systems</a>. <i>ACM Journal on Emerging Technologies in Computing Systems</i>, 10, 1, Article 4, Jan. 2014, 22
 pages.
 </p>
 <br>
@@ -123,7 +144,7 @@ Integration (VLSI) Systems</i>, vol. 21, no. 11, pp. 2141-2154, Nov.
   A. Louri and A. K. Kodi. 2011. <a
 href="/papers/jpdc11.pdf">Editorial: Introduction to the special issue
 on Networks-on-Chip (NoC) of the Journal of Parallel and Distributed
-Computing (JPDC)</a>. <i>J. Parallel Distrib. Comput.</i> 71, Article 5, May
+Computing (JPDC)</a>. <i>Journal of Parallel and Distributed Computing</i>, 71, Article 5, May
 2011, pp. 623-624.
 </p>
 <br>

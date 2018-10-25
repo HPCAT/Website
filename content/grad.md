@@ -10,7 +10,7 @@ keywords = ["Graduate","Undergraduate","Student","Doctorate"]
 
 #### Hao Zheng 
 <p style="text-align: justify; font-size:18px;">
-Hao Zheng worked on building a power-efficient Network-on-Chips (NoCs). His primary research interests are energy and performance optimization of the multi-core system.
+Hao Zheng is working on building a power-efficient Network-on-Chips (NoCs). His primary research interests are energy and performance optimization of the multi-core system.
 </p>
 
 <br>
@@ -79,6 +79,16 @@ Yuan Li is working on 3D Network-on-Chip architectures. His research aims to fac
 #### Yi Zhao
 <p style="text-align: justify; font-size:18px;">
 Yi Zhao is pursuing his MS in Computer Architecture and he joined Prof. Louri’s Lab in late 2017. Yi's current project is focus on NoC design, such as topology and routing algorithm, to get low cost, high performance and energy-efficient.
+</p>
+
+<br>
+<br>
+<br>
+<img src="/img/People/haoran.jpg" hspace="20" vspace="0" border="0" alt="Yuan" style="float: left; width: 120px;"/>
+
+#### Haoran Liu
+<p style="text-align: justify; font-size:18px;">
+Haoran is working on application aware topology reconfiguration. He is trying to reconfigure NoC topology to optimize network performance based on machine learning algorithms.
 </p>
 
 <br>

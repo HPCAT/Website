@@ -121,8 +121,11 @@ paginate = 10
         <br>The George Washinton University
         <br>800 22nd Street NW, Room 5580
         <br>Washington, DC
+        <br><strong>United States of America</strong>
         <br>
-        <strong>United States of America</strong>
+        <br>Phone: 202-994-8241
+        <br>louri@gwu.edu
+
       </p>
       """
     latitude = "38.89992"
